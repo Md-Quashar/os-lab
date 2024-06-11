@@ -1,0 +1,8 @@
+-rw-rw-r-- 1 user1 user1    0 Apr 16 13:32 check
+-rw-rw-r-- 1 user1 user1   31 Apr 16 13:15 data
+-rw-rw-r-- 1 user1 user1    0 Apr 16 13:31 db
+-rw-rw-r-- 1 user1 user1   19 Apr 16 12:20 file.txt
+-rwxrw-r-- 1 user1 user1  168 Apr 16 12:47 q1.sh
+-rwxrw-r-- 1 user1 user1  332 Apr 16 13:15 q2.sh
+-rwxrw-r-- 1 user1 user1   48 Apr 16 13:32 q3.sh
+drwxrwxr-x 2 user1 user1 4096 Apr 16 13:05 temp

@@ -1,0 +1,84 @@
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1777.775
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1900.431
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1656.662
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1743.428
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 3291.891
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 3258.764
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 3231.013
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 3241.107
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.308
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.343
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.414
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.349
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.367
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.335
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.402
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.360
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.343
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.374
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.368
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.354
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.338
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.365
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.371
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1596.380
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1616.482
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1605.611
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1626.198
+cache size	: 3072 KB
+model name	: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+cpu MHz		: 1648.355
+cache size	: 3072 KB
